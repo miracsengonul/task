@@ -1,19 +1,19 @@
 #Kurulum
 --
-".env" dosya yapılandırması yapılır
+".env" dosya yapılandırması yapılır. <br />
 
-1 - composer install
-2 - php artisan migrate
-3 - php artisan db:seed
-4 - php artisan serve
+1 - composer install <br />
+2 - php artisan migrate <br />
+3 - php artisan db:seed <br />
+4 - php artisan serve <br />
 
-Link : http://localhost:8000
+Link : http://localhost:8000 <br />
 
 #Yönetici Giriş Bilgisi 
 --
-Öğrenci Numarası : 1111
-Parola : password
+Öğrenci Numarası : 1111 <br />
+Parola : password <br />
 
-#Öğrenci Giriş Bilgileri 
-Öğrenci Numarası
-Parola : password
+#Öğrenci Giriş Bilgileri  <br />
+Öğrenci Numarası <br />
+Parola : password <br />
